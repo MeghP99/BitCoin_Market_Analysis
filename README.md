@@ -1,7 +1,7 @@
 # Bitcoin_Market_Analysis
 Bitcoin and other Crytpo-currencies market analysis
 
-Cleaned and imported Data using Python
+Cleaned and imported data using Python
 Visualized Data and created a report using Power BI
 
 ### Graph 1- Top 10 performing coins based on MarketCap

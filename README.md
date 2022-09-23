@@ -58,7 +58,7 @@ Visualized Data and created a report using Power BI
 
 >> Bronze league had the highest number of coins, which are the coins with value less than a 100 million, consisting of 943 coins, ~91% of the coins in entire crypto market fall in this bracket
 
-#### To conclude, According to my analysis, the coins with value less than 100 million USD have the highest % change in their value, they can be the best horse to bet on or a black hole that will vaccum your funds in a single day.
+#### According to my analysis, the coins with value less than 100 million USD have the highest % change in their value, they can be the best horse to bet on or a black hole that will vaccum your funds in a single day.
 
 #### Coins having highest % capitalization are least volatile and can be the best means of investment.
 

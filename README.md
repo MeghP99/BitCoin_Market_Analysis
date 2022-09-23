@@ -61,3 +61,6 @@ Visualized Data and created a report using Power BI
 #### To conclude, According to my analysis, the coins with value less than 100 million USD have the highest % change in their value, they can be the best horse to bet on or a black hole that will vaccum your funds in a single day.
 
 #### Coins having highest % capitalization are least volatile and can be the best means of investment.
+
+![alt text](https://github.com/MeghP99/BitCoin_Market_Analysis/edit/main/PowerBivisuals-1.jpg?raw=true)
+

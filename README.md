@@ -1,4 +1,4 @@
-# BitCoin_Market_Analysis
+# BicCoin_Market_Analysis
 Bitcoin and Various other coins market analysis
 
 Cleaned and imported Data using Python

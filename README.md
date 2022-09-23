@@ -1,5 +1,5 @@
 # Bitcoin_Market_Analysis
-Bitcoin and Various other coins market analysis
+Bitcoin and other Crytpo-currencies market analysis
 
 Cleaned and imported Data using Python
 Visualized Data and created a report using Power BI

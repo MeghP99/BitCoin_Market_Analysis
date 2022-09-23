@@ -62,5 +62,6 @@ Visualized Data and created a report using Power BI
 
 #### Coins having highest % capitalization are least volatile and can be the best means of investment.
 
-![alt text](https://github.com/MeghP99/BitCoin_Market_Analysis/edit/main/PowerBivisuals-1.jpg?raw=true)
+
+![PowerBi visuals-1](https://user-images.githubusercontent.com/87923113/191963724-90d0ab57-8f39-41ba-8db1-78ba68d895da.jpg)
 
